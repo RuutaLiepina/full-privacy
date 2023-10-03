@@ -6,3 +6,4 @@ The list of data and documentation:
 * Excel of the privacy policy data points
 * Account 1 experiment results, full trascript
 * Account 2 experiment results, full trascript
+* Results of the experiments, overview of errors
